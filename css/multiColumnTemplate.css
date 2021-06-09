@@ -42,7 +42,7 @@
 .columns {
     width: 25%;
     float: left;
-    font-family: cantarell;
+    font-family: "Century Gothic";
     color: #A5A5A5;
     line-height: 24px;
     padding-top: 10px;
@@ -114,7 +114,7 @@
     background-color: #FFFFFF;
     width: 70%;
     float: left;
-    font-family: cantarell;
+    font-family: "Century Gothic";
     color: #343434;
     padding-bottom: 15px;
     font-style: normal;
@@ -157,22 +157,22 @@
 	padding-left: 0px;
 }
 .right_article ul li {
-	font-family: "Source Sans Pro";
-	list-style: none;
-	text-align: center;
-	background-color: #B3B3B3;
-	width: 90%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	color: #FFFFFF;
-	font-weight: bold;
-	border-radius: 0px;
-	transition: all 0.3s linear;
-	border-left: 5px solid #717070;
+    font-family: "Century Gothic";
+    list-style: none;
+    text-align: center;
+    background-color: #B3B3B3;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 0px;
+    transition: all 0.3s linear;
+    border-left: 5px solid #717070;
 }
 .right_article ul li:hover {
 	background-color: #717070;
@@ -218,7 +218,7 @@
 .column_title {
     padding-top: 25px;
     padding-bottom: 25px;
-    font-family: cantarell;
+    font-family: "Century Gothic";
     font-style: normal;
     font-weight: 400;
     font-size: 135%;
@@ -230,7 +230,7 @@
     font-weight: 400;
     letter-spacing: 2px;
     border-top-width: 2px;
-    font-family: cantarell;
+    font-family: "Century Gothic";
     font-style: normal;
 }
 body {
