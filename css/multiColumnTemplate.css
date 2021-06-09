@@ -73,8 +73,8 @@
 }
 .secondary_header {
     width: 100%;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 6px;
+    padding-bottom: 3px;
     background-color: #272727;
     clear: left;
 }
@@ -94,7 +94,7 @@
     float: left;
     margin-right: auto;
     margin-top: 0px;
-    font-family: cantarell;
+    font-family: "Century Gothic";
     font-weight: 400;
     color: #FFFFFF;
     letter-spacing: 1px;
