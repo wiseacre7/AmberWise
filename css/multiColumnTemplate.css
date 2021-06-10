@@ -63,8 +63,9 @@
 	padding-right: 10%;
 }
 .container .columns h4 {
-	text-align: center;
-	color: #01B2D1;
+    text-align: center;
+    color: #01B2D1;
+    /*transform: scaleX(1.05);*/	
 }
 .primary_header {
     width: 100%;
@@ -125,23 +126,25 @@
 	display: none;
 }
 .container .left_article h3 {
-    padding-left: 5%;
+    padding-left: 7.2%;
     padding-right: 5%;
     margin-top: 5%;
     color: #717070;
-	font-family: inherit;
+    font-family: "Century Gothic";
     font-weight: bold;
-    font-size: 120%;
+    font-size: 115%;
+    transform: scaleX(1.05);
 }
 .container .left_article p {
     padding-left: 5%;
     /*padding-right: 5%;*/
     text-align: justify;
-    line-height: 140%;
+    line-height: 150%;
     margin-top: 30px;
     margin-bottom: 15px;
     color: #908F8F;
-	font-size: 95%;
+	font-family: inherit;
+	font-size: 100%;
 }
 .right_article {
 	width: 30%;
