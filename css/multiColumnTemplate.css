@@ -125,21 +125,23 @@
 	display: none;
 }
 .container .left_article h3 {
-	padding-left: 5%;
-	padding-right: 5%;
-	margin-top: 5%;
-	color: #717070;
-	font-weight: bold;
-	/*text-transform: uppercase;*/
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+    color: #717070;
+	font-family: inherit;
+    font-weight: bold;
+    font-size: 120%;
 }
 .container .left_article p {
     padding-left: 5%;
     /*padding-right: 5%;*/
     text-align: justify;
-    line-height: 24px;
+    line-height: 140%;
     margin-top: 30px;
     margin-bottom: 15px;
     color: #908F8F;
+	font-size: 95%;
 }
 .right_article {
 	width: 30%;
