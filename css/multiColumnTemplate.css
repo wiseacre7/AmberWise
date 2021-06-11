@@ -98,9 +98,9 @@
     float: left;
     font-family: "Century Gothic";
     font-weight: 400;
-    font-size: 1.25vw;
+    font-size: 1.3vw;
     color: #FFFFFF;
-    letter-spacing: 1px;
+    letter-spacing: 0.1vw;
     text-align: center;
     width: 25%;
     transition: all 0.3s linear;
@@ -186,12 +186,12 @@
 }
 .title {
 	font-family: "AlexBrush Regular";
+	font-size: 5vw;
     font-weight: 400;
     font-style: normal;
     text-align: center;
     color: #FFFFFF;
-    letter-spacing: 2px;
-    font-size: 400%;
+    letter-spacing: .15vw;
 }
 .placeholder {
     width: 70%;
@@ -245,9 +245,12 @@ body {
 
 
 .thumbnail {
-	width: 100px;
+	/*width: 100px;
 	border-radius: 200px;
-	height: 100px;
+	height: 100px;*/
+	width: 7em;
+    border-radius: 14em;
+    height: 7em;
 	margin-left: auto;
 }
 .thumbnail_align {
