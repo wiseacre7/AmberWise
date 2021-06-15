@@ -77,8 +77,8 @@
 }
 .secondary_header {
     width: 100%;
-    padding-top: 0.7%;
-    padding-bottom: 2.6%;
+    padding-top: 0.6%;
+    padding-bottom: 2.65%;
     background-color: #272727;
     clear: left;
 }
@@ -186,6 +186,8 @@
 }
 .footer {
     background-color: #717070;
+	padding-top: 7px;
+    padding-bottom: 8px;
 }
 .title {
 	font-family: "AlexBrush Regular";
@@ -234,8 +236,7 @@
     background-color: #717070;
     color: #FFFFFF;
     font-weight: 400;
-    letter-spacing: 2px;
-    border-top-width: 2px;
+    letter-spacing: 1px;
     font-family: "Quicksand(Variable)";
     font-style: normal;
 }
