@@ -1,0 +1,98 @@
+@charset "UTF-8";
+@import url("../webfonts/AlexBrush_Regular/stylesheet.css");
+@import url("../webfonts/Quicksand_Variable_/stylesheet.css");
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+  }
+html{
+	min-height: 100%;
+	max-width: 100%;
+}
+.container {
+    background-color: #FFFFFF;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-width: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+.primary_header {
+    width: 100%;
+    background-color: #4AC56C;
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+.secondary_header {
+    width: 100%;
+    padding-top: 0.6%;
+    padding-bottom: 2.65%;
+    background-color: #272727;
+    clear: left;
+}
+.container .secondary_header ul {
+    margin-top: 0%;
+    margin-right: auto;
+    margin-bottom: 0%;
+    margin-left: auto;
+    padding-top: 0%;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    width: 100%;
+}
+.secondary_header ul li {
+    list-style: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    font-family: "Quicksand(Variable)";
+    font-weight: 400;
+    font-size: 1.4vw;
+    color: #FFFFFF;
+    letter-spacing: 0.1vw;
+    text-align: center;
+    width: 25%;
+    transition: all 0.3s linear;
+    font-style: normal;
+}
+.secondary_header ul li:hover {
+    color: #86D89C;
+    cursor: pointer;
+}
+.footer {
+    background-color: #717070;
+	padding-top: 7px;
+    padding-bottom: 8px;
+	/*position: absolute;*/
+	bottom: 0;
+	max-width: 100%;
+}
+.title {
+	font-family: "AlexBrush Regular";
+	font-size: 5vw;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: .15vw;
+}
+.copyright {
+    text-align: center;
+    background-color: #717070;
+    color: #FFFFFF;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-family: "Quicksand(Variable)";
+    font-style: normal;
+}
+#menu {
+}
