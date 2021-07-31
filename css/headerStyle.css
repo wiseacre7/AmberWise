@@ -56,7 +56,8 @@ html{
     float: left;
     font-family: "Quicksand(Variable)";
     font-weight: 400;
-    font-size: 1.4vw;
+    /*font-size: 1.4vw;*/
+	font-size: 1.2rem;
     color: #FFFFFF;
     letter-spacing: 0.1vw;
     text-align: center;
